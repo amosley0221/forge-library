@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1788911426543,
+  "updatedAt": 1788911652281,
   "device": "desktop",
   "assets": [
     {
@@ -10,8 +10,8 @@
       "kind": "prop",
       "device": "desktop",
       "createdAt": 1788904864987,
-      "updatedAt": 1788911380687,
-      "cur": 1,
+      "updatedAt": 1788911543183,
+      "cur": 2,
       "versions": [
         {
           "label": "v1",
@@ -48,6 +48,24 @@
           "provider": "meshy",
           "taskId": "01a0836c-98e9-71bc-8b2b-b4e3b9a58ac4",
           "label": "v2"
+        },
+        {
+          "note": "restyled: light skin tone, short beard",
+          "prompt": "light skin tone, short beard",
+          "device": "desktop",
+          "createdAt": 1788911543183,
+          "stats": {
+            "triangles": 20789,
+            "materials": 1,
+            "sizeMeters": 2,
+            "clipNames": [],
+            "bytes": 8426092
+          },
+          "fileId": "mm3g7hk4f",
+          "sourceUrl": "https://assets.meshy.ai/7803a6ef-f8f1-4962-938b-6dd6ae7d8a9c/tasks/01a0836e-f5eb-7446-a10c-43cc90409ac9/output/model.glb?Expires=1789170741&Signature=OwcNLw93xxmqB-yovu3AwWzpP6yzqs9xHVDg~XkNCkewVEKNezkoOS3IiONPC7IEK2AtRuiolqFBAGoPzzAbHsxlcYhA4iYUUH2nSdZQepRz03FrsKO1~LkJTkLV-im1d7Mhu8DrDSHwloYo2KZ3KjMysOWTUaSsNKrgabpD6Zo8U3arn-gC1N3rOYY-7Zni6bv-gILoCrOc~b9P7VUNvTxRU2KX146zoFkNrDuNJCluletcdT7RQkSB~YI5fSnAw5fJmscJZo1mXEXln6j639Mi5j1n0ah8x9DZQvoovHcsho~dOjgTXT7RPlZItIa7C~wau0SpvAd~M1WrgXGsPQ__&Key-Pair-Id=K1VGYTHIYLM9UM",
+          "provider": "meshy",
+          "taskId": "01a082c4-1e63-731c-af53-33c14a8a9e7c",
+          "label": "v3"
         }
       ],
       "clips": []
@@ -55,6 +73,7 @@
   ],
   "files": [
     "mfnlvuuu1",
-    "m4apq1hpd"
+    "m4apq1hpd",
+    "mm3g7hk4f"
   ]
 }
