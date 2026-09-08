@@ -1,7 +1,41 @@
 {
   "version": 1,
-  "updatedAt": 1788903822196,
+  "updatedAt": 1788904894140,
   "device": "desktop",
-  "assets": [],
-  "files": []
+  "assets": [
+    {
+      "id": "ad1od0rla",
+      "name": "need_character",
+      "category": "Prop",
+      "kind": "prop",
+      "device": "desktop",
+      "createdAt": 1788904864987,
+      "updatedAt": 1788904864987,
+      "cur": 0,
+      "versions": [
+        {
+          "label": "v1",
+          "note": "generated from prompt",
+          "prompt": "I need a character model for a game. It should be a heavy set man around 20-21 years old. Can you create this?, toon style",
+          "device": "desktop",
+          "createdAt": 1788904864987,
+          "stats": {
+            "triangles": 20816,
+            "materials": 1,
+            "sizeMeters": 1.903,
+            "clipNames": [],
+            "bytes": 894268
+          },
+          "fileId": "mfnlvuuu1",
+          "sourceUrl": "https://assets.meshy.ai/7803a6ef-f8f1-4962-938b-6dd6ae7d8a9c/tasks/01a082c4-1e63-731c-af53-33c14a8a9e7c/output/model.glb?Expires=4942425600&Signature=ZF0a-OgxO8fPHM0sgMLXCQc1Nnn~9Yg7nlRXNo8q2AfqJTHPPCq0OBsdtN5L-h1EAB139PhPw2936Oks~T8aUSouWIHHvrJwHmDyPAN7tp-pmVf1sBdsgBTUg7tswBayFwZdjyDCN72wQ7rxD-F1FWLn6XDgif5uZrkhY7TRtt96cLqkm~pLE8LzeCBjd97xya4QLLDrG0Iq7Px7deH7t7zy~qomLDapCHzJQguGHY8NkgZzBFi5PAKrP~8vl5HJwWe~MUsyiCASRqzTB~tBYHx19k4~t9tN4hWLE1baB1D~zckNTIuVpxnq4EAGq8R8tKKxBYB7Hokpx2n8nJ0UOA__&Key-Pair-Id=K1VGYTHIYLM9UM",
+          "provider": "meshy",
+          "taskId": "01a082c4-1e63-731c-af53-33c14a8a9e7c"
+        }
+      ],
+      "clips": []
+    }
+  ],
+  "files": [
+    "mfnlvuuu1"
+  ]
 }
