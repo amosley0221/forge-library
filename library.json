@@ -1,8 +1,39 @@
 {
   "version": 1,
-  "updatedAt": 1788914544126,
+  "updatedAt": 1788919220228,
   "device": "desktop",
   "assets": [
+    {
+      "id": "a46kgln3k",
+      "name": "generate_this",
+      "category": "Character",
+      "kind": "character",
+      "device": "desktop",
+      "createdAt": 1788919102298,
+      "updatedAt": 1788919102298,
+      "cur": 0,
+      "versions": [
+        {
+          "label": "v1",
+          "note": "generated from image",
+          "prompt": "generate this character as a 3D model",
+          "device": "desktop",
+          "createdAt": 1788919102298,
+          "stats": {
+            "triangles": 20800,
+            "materials": 1,
+            "sizeMeters": 1.899,
+            "clipNames": [],
+            "bytes": 9667400
+          },
+          "fileId": "mlq2uilwv",
+          "sourceUrl": "https://assets.meshy.ai/7803a6ef-f8f1-4962-938b-6dd6ae7d8a9c/tasks/01a083dc-7be9-719b-82a7-c318dc316827/output/model.glb?Expires=1789177993&Signature=ATCrp1ApbKL2TOMAX-Y7jdJlr8CR182PWpY6wWEVk8~Xm-~auCal6B96Oxyhs672uWAGlHmGX3l~sji3ybPhTmEEUHzvKKwLyzwCkdzdNdTUyv6WmzvfkenO3wp9QWjdudKk8pERCSrJHSXXS4k7rE9MAUiMPMqlCns2hRrxPIpo1tCC1U3F5FvorTqmmLa-Ht3VjEvvgDPxLREIt5LE~3yMUkR4Bojy7tZ7clOmTU2Lx8nI43FV9cXQBMGOvG~ZNhWDNW6WcmIhCt3tXkvyueXU7KK4oQaoLVBu9Gqgeb1RJ7N8h2KzArgIRVxZxHZaDNARjykV-qHS6lzcmZ3eHg__&Key-Pair-Id=K1VGYTHIYLM9UM",
+          "provider": "meshy",
+          "taskId": "img:01a083dc-7be9-719b-82a7-c318dc316827"
+        }
+      ],
+      "clips": []
+    },
     {
       "id": "ad1od0rla",
       "name": "need_character",
@@ -74,7 +105,16 @@
   "files": [
     "mfnlvuuu1",
     "m4apq1hpd",
-    "mm3g7hk4f"
+    "mm3g7hk4f",
+    "mlq2uilwv"
   ],
-  "activity": []
+  "activity": [
+    {
+      "id": "mttg8ti2-lupf6e",
+      "at": 1788919102298,
+      "device": "desktop",
+      "message": "generate_this created on desktop",
+      "assetId": "a46kgln3k"
+    }
+  ]
 }
