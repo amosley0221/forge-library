@@ -1,8 +1,39 @@
 {
   "version": 1,
-  "updatedAt": 1788919220228,
+  "updatedAt": 1788919487127,
   "device": "desktop",
   "assets": [
+    {
+      "id": "aaxi0ajej",
+      "name": "hollow_hero",
+      "category": "Character",
+      "kind": "character",
+      "device": "desktop",
+      "createdAt": 1788919443852,
+      "updatedAt": 1788919443852,
+      "cur": 0,
+      "versions": [
+        {
+          "label": "v1",
+          "note": "generated from image",
+          "prompt": "Hollow Hero Kena Style, need this generated into a 3D model that fits the style of a pixar movie or Kena video game",
+          "device": "desktop",
+          "createdAt": 1788919443852,
+          "stats": {
+            "triangles": 20723,
+            "materials": 1,
+            "sizeMeters": 1.902,
+            "clipNames": [],
+            "bytes": 8873976
+          },
+          "fileId": "m9f63rgpx",
+          "sourceUrl": "https://assets.meshy.ai/7803a6ef-f8f1-4962-938b-6dd6ae7d8a9c/tasks/01a083e6-6cbb-73c6-aeed-c5d16e6a8a6a/output/model.glb?Expires=1789178635&Signature=qCG6VgjtCDCxrHnzvSzVPswpycuxZHNKY3VL6RM3samS50O-uG7ONZ2uV8UR~6CvbaoBIt5-G83QeV1jyVXrySGrJh~98zcIWNE79fM1maSGDQltqXtgfWQIVvlY0-qz3vM2QHFs7rH2iMdh8ng2j6IJEXx4F7k5kluOew8DifLa2MxOC7bbaAZ0SQA3~z7zvK-HtyJ4IP9QVdKL22dwaTxuYmCYGHRhaVraymR0vaH5PYxDxZbRVMyiS1GUAnafWZlloOpwX6vDqzbAYwNBhWIAXwwF8XRoZyt52XeEpDOLTRikDR5r2p0P3yB8xxOT4YSIdYgAo300t334EzwG8A__&Key-Pair-Id=K1VGYTHIYLM9UM",
+          "provider": "meshy",
+          "taskId": "img:01a083e6-6cbb-73c6-aeed-c5d16e6a8a6a"
+        }
+      ],
+      "clips": []
+    },
     {
       "id": "a46kgln3k",
       "name": "generate_this",
@@ -106,9 +137,17 @@
     "mfnlvuuu1",
     "m4apq1hpd",
     "mm3g7hk4f",
-    "mlq2uilwv"
+    "mlq2uilwv",
+    "m9f63rgpx"
   ],
   "activity": [
+    {
+      "id": "mttgg51o-c8l15b",
+      "at": 1788919443852,
+      "device": "desktop",
+      "message": "hollow_hero created on desktop",
+      "assetId": "aaxi0ajej"
+    },
     {
       "id": "mttg8ti2-lupf6e",
       "at": 1788919102298,
