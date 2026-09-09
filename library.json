@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1788919487127,
+  "updatedAt": 1788921121070,
   "device": "desktop",
   "assets": [
     {
@@ -10,8 +10,8 @@
       "kind": "character",
       "device": "desktop",
       "createdAt": 1788919443852,
-      "updatedAt": 1788919443852,
-      "cur": 0,
+      "updatedAt": 1788921039171,
+      "cur": 1,
       "versions": [
         {
           "label": "v1",
@@ -30,9 +30,34 @@
           "sourceUrl": "https://assets.meshy.ai/7803a6ef-f8f1-4962-938b-6dd6ae7d8a9c/tasks/01a083e6-6cbb-73c6-aeed-c5d16e6a8a6a/output/model.glb?Expires=1789178635&Signature=qCG6VgjtCDCxrHnzvSzVPswpycuxZHNKY3VL6RM3samS50O-uG7ONZ2uV8UR~6CvbaoBIt5-G83QeV1jyVXrySGrJh~98zcIWNE79fM1maSGDQltqXtgfWQIVvlY0-qz3vM2QHFs7rH2iMdh8ng2j6IJEXx4F7k5kluOew8DifLa2MxOC7bbaAZ0SQA3~z7zvK-HtyJ4IP9QVdKL22dwaTxuYmCYGHRhaVraymR0vaH5PYxDxZbRVMyiS1GUAnafWZlloOpwX6vDqzbAYwNBhWIAXwwF8XRoZyt52XeEpDOLTRikDR5r2p0P3yB8xxOT4YSIdYgAo300t334EzwG8A__&Key-Pair-Id=K1VGYTHIYLM9UM",
           "provider": "meshy",
           "taskId": "img:01a083e6-6cbb-73c6-aeed-c5d16e6a8a6a"
+        },
+        {
+          "note": "rigged",
+          "prompt": "",
+          "device": "desktop",
+          "createdAt": 1788921039170,
+          "stats": {
+            "triangles": 20723,
+            "materials": 1,
+            "sizeMeters": 1.7,
+            "clipNames": [
+              "Armature|clip0|baselayer"
+            ],
+            "bytes": 7040332
+          },
+          "fileId": "mjp9a4c38",
+          "provider": "meshy",
+          "taskId": "img:01a083e6-6cbb-73c6-aeed-c5d16e6a8a6a",
+          "riggedTaskId": "01a083ff-f33a-7332-a866-6ebcea91cd9b",
+          "label": "v2"
         }
       ],
-      "clips": []
+      "clips": [
+        {
+          "name": "Armature|clip0|baselayer",
+          "status": "approved"
+        }
+      ]
     },
     {
       "id": "a46kgln3k",
@@ -138,9 +163,17 @@
     "m4apq1hpd",
     "mm3g7hk4f",
     "mlq2uilwv",
-    "m9f63rgpx"
+    "m9f63rgpx",
+    "mjp9a4c38"
   ],
   "activity": [
+    {
+      "id": "mtthec03-ruxx0w",
+      "at": 1788921039171,
+      "device": "desktop",
+      "message": "hollow_hero rigged",
+      "assetId": "aaxi0ajej"
+    },
     {
       "id": "mttgg51o-c8l15b",
       "at": 1788919443852,
