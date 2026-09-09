@@ -1,8 +1,36 @@
 {
   "version": 1,
-  "updatedAt": 1788993424376,
+  "updatedAt": 1788993440577,
   "device": "desktop",
   "assets": [
+    {
+      "id": "a0xgmoqv4",
+      "name": "review",
+      "category": "Creature",
+      "kind": "creature",
+      "device": "desktop",
+      "createdAt": 1788993438260,
+      "updatedAt": 1788993438260,
+      "cur": 0,
+      "versions": [
+        {
+          "label": "v1",
+          "note": "imported from RV_Review_v2.glb",
+          "prompt": "",
+          "device": "desktop",
+          "createdAt": 1788993438260,
+          "stats": {
+            "triangles": 12776,
+            "materials": 9,
+            "sizeMeters": 7.945,
+            "clipNames": [],
+            "bytes": 700200
+          },
+          "fileId": "m9e7fjnvg"
+        }
+      ],
+      "clips": []
+    },
     {
       "id": "a3kpvpr5f",
       "name": "meshy_jovial",
@@ -193,9 +221,17 @@
     "mlq2uilwv",
     "m9f63rgpx",
     "mjp9a4c38",
-    "mfchidh9c"
+    "mfchidh9c",
+    "m9e7fjnvg"
   ],
   "activity": [
+    {
+      "id": "mtuoi3hw-chn6mi",
+      "at": 1788993438260,
+      "device": "desktop",
+      "message": "review imported on desktop",
+      "assetId": "a0xgmoqv4"
+    },
     {
       "id": "mtuogx88-hyvp0n",
       "at": 1788993383480,
