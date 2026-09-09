@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1788975320709,
+  "updatedAt": 1788993424376,
   "device": "desktop",
   "assets": [
     {
@@ -196,6 +196,13 @@
     "mfchidh9c"
   ],
   "activity": [
+    {
+      "id": "mtuogx88-hyvp0n",
+      "at": 1788993383480,
+      "device": "desktop",
+      "message": "review imported on desktop",
+      "assetId": "a8djl2u9f"
+    },
     {
       "id": "mtudplv8-p9urm7",
       "at": 1788975312884,
