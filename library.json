@@ -1,8 +1,36 @@
 {
   "version": 1,
-  "updatedAt": 1788921121070,
+  "updatedAt": 1788959768475,
   "device": "desktop",
   "assets": [
+    {
+      "id": "a3kpvpr5f",
+      "name": "meshy_jovial",
+      "category": "Creature",
+      "kind": "creature",
+      "device": "desktop",
+      "createdAt": 1788959742635,
+      "updatedAt": 1788959742635,
+      "cur": 0,
+      "versions": [
+        {
+          "label": "v1",
+          "note": "imported from Meshy_AI_Jovial_Dwarven_Warrio_0909131432_texture.glb",
+          "prompt": "",
+          "device": "desktop",
+          "createdAt": 1788959742635,
+          "stats": {
+            "triangles": 785878,
+            "materials": 1,
+            "sizeMeters": 1.899,
+            "clipNames": [],
+            "bytes": 26648008
+          },
+          "fileId": "mfchidh9c"
+        }
+      ],
+      "clips": []
+    },
     {
       "id": "aaxi0ajej",
       "name": "hollow_hero",
@@ -11,7 +39,7 @@
       "device": "desktop",
       "createdAt": 1788919443852,
       "updatedAt": 1788921039171,
-      "cur": 1,
+      "cur": 0,
       "versions": [
         {
           "label": "v1",
@@ -164,9 +192,17 @@
     "mm3g7hk4f",
     "mlq2uilwv",
     "m9f63rgpx",
-    "mjp9a4c38"
+    "mjp9a4c38",
+    "mfchidh9c"
   ],
   "activity": [
+    {
+      "id": "mtu4fvsb-i4hdhq",
+      "at": 1788959742635,
+      "device": "desktop",
+      "message": "meshy_jovial imported on desktop",
+      "assetId": "a3kpvpr5f"
+    },
     {
       "id": "mtthec03-ruxx0w",
       "at": 1788921039171,
