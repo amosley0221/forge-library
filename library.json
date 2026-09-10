@@ -1,8 +1,39 @@
 {
   "version": 1,
-  "updatedAt": 1789004762887,
+  "updatedAt": 1789006147721,
   "device": "desktop",
   "assets": [
+    {
+      "id": "avi16870o",
+      "name": "create_realistic",
+      "category": "Character",
+      "kind": "character",
+      "device": "desktop",
+      "createdAt": 1789006120678,
+      "updatedAt": 1789006120678,
+      "cur": 0,
+      "versions": [
+        {
+          "label": "v1",
+          "note": "generated from image",
+          "prompt": "Create realistic 3D model of this girl",
+          "device": "desktop",
+          "createdAt": 1789006120678,
+          "stats": {
+            "triangles": 207605,
+            "materials": 1,
+            "sizeMeters": 1.904,
+            "clipNames": [],
+            "bytes": 17863624
+          },
+          "fileId": "mjiumgg0e",
+          "sourceUrl": "https://assets.meshy.ai/7803a6ef-f8f1-4962-938b-6dd6ae7d8a9c/tasks/01a0890f-ae9f-70ae-be70-23d511ad3db1/output/model.glb?Expires=1789265317&Signature=QW-v7OOG0MXe3dXo1Dohot9hnAsANzYCNWFauzMhFXU8rzDqQ54cBPfYWc83~ZDw6MQ2E7njyA4B9hmjY~vkSRybg1fV2-2bQ1~-Ys8F0nv6y-f3QWUsCCHCthlWTdWJaNPeU3-PFAqda3XT4qkv3p1qwVFbvQCB224PHEqkjID1gmsGtirEz7fAvZwac9XxRRTTuZsLeymvoU6YkPJ1vptLWEp4XEO7eMujAugm~dZ5YKSHbKMkttnfdNiZrw-6ozFpWdOduvQkhSc8yyvXoRCPKKLUTRivK1eox~HRrCf-1GpST7hb3PMX8DfDnlv2f2r7HYh2lN9tf5NSHKnJPQ__&Key-Pair-Id=K1VGYTHIYLM9UM",
+          "provider": "meshy",
+          "taskId": "mvi:01a0890f-ae9f-70ae-be70-23d511ad3db1"
+        }
+      ],
+      "clips": []
+    },
     {
       "id": "apj0vt5nl",
       "name": "create_realistic",
@@ -286,9 +317,17 @@
     "mfchidh9c",
     "m9e7fjnvg",
     "mkp0m3zey",
-    "myfygy4mb"
+    "myfygy4mb",
+    "mjiumgg0e"
   ],
   "activity": [
+    {
+      "id": "mtuw1xba-u4n0vk",
+      "at": 1789006120678,
+      "device": "desktop",
+      "message": "create_realistic created on desktop",
+      "assetId": "avi16870o"
+    },
     {
       "id": "mtuv7jyl-2g6v1c",
       "at": 1789004703693,
