@@ -1,8 +1,64 @@
 {
   "version": 1,
-  "updatedAt": 1789006147721,
+  "updatedAt": 1789060513933,
   "device": "desktop",
   "assets": [
+    {
+      "id": "a0jat0mjj",
+      "name": "recreate_this",
+      "category": "Character",
+      "kind": "character",
+      "device": "desktop",
+      "createdAt": 1789006553211,
+      "updatedAt": 1789006683639,
+      "cur": 1,
+      "versions": [
+        {
+          "label": "v1",
+          "note": "generated from image",
+          "prompt": "Recreate this man. Make him very realistic",
+          "device": "desktop",
+          "createdAt": 1789006553211,
+          "stats": {
+            "triangles": 206504,
+            "materials": 1,
+            "sizeMeters": 1.902,
+            "clipNames": [],
+            "bytes": 16740876
+          },
+          "fileId": "m9wshgcis",
+          "sourceUrl": "https://assets.meshy.ai/7803a6ef-f8f1-4962-938b-6dd6ae7d8a9c/tasks/01a08915-e38c-77fc-b829-5e57cdaaa7e2/output/model.glb?Expires=1789265750&Signature=VRQGJ6OpZBd~4pAYTM1FZib6KvsSkB79Xu63guYsber-Dg7ZugILviCvrUjpaQOtkWgrZ3f-sAPGMdmsop~cutXZOi0m59-OyjoGrGszTMNM8jIsNjZB7Zq3fMn87vhw3LdGPIqNRzJUQchtIIwiNYBFAyOEUgS4MCp97o-H4IMoQTzftZe6nEi0sC~KqQe57F~-CVzlUpyKRirPFiVaYMI~rz8bnfrd9Y2I-hCYEiGzY0RyujBOVfeJ2Q2eNwSxtAvdDUOJ4GkQ5enyYJyBiyHQK6SGWk5TF7Qql9J0K7TsF2vD5Xoji0XqXYILg1uWcWcSq2mELy4XycbNLvfIRg__&Key-Pair-Id=K1VGYTHIYLM9UM",
+          "provider": "meshy",
+          "taskId": "mvi:01a08915-e38c-77fc-b829-5e57cdaaa7e2"
+        },
+        {
+          "note": "rigged",
+          "prompt": "",
+          "device": "desktop",
+          "createdAt": 1789006683639,
+          "stats": {
+            "triangles": 189028,
+            "materials": 1,
+            "sizeMeters": 1.7,
+            "clipNames": [
+              "Armature|clip0|baselayer"
+            ],
+            "bytes": 17423808
+          },
+          "fileId": "mqyqxsdbq",
+          "provider": "meshy",
+          "taskId": "mvi:01a08915-e38c-77fc-b829-5e57cdaaa7e2",
+          "riggedTaskId": "01a0891a-57a6-7483-b2af-fc8ba383e587",
+          "label": "v2"
+        }
+      ],
+      "clips": [
+        {
+          "name": "Armature|clip0|baselayer",
+          "status": "approved"
+        }
+      ]
+    },
     {
       "id": "avi16870o",
       "name": "create_realistic",
@@ -318,9 +374,25 @@
     "m9e7fjnvg",
     "mkp0m3zey",
     "myfygy4mb",
-    "mjiumgg0e"
+    "mjiumgg0e",
+    "m9wshgcis",
+    "mqyqxsdbq"
   ],
   "activity": [
+    {
+      "id": "mtuwdzp3-hfwrgr",
+      "at": 1789006683639,
+      "device": "desktop",
+      "message": "recreate_this rigged",
+      "assetId": "a0jat0mjj"
+    },
+    {
+      "id": "mtuwb723-r4cu6u",
+      "at": 1789006553211,
+      "device": "desktop",
+      "message": "recreate_this created on desktop",
+      "assetId": "a0jat0mjj"
+    },
     {
       "id": "mtuw1xba-u4n0vk",
       "at": 1789006120678,
