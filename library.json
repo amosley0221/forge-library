@@ -1,8 +1,39 @@
 {
   "version": 1,
-  "updatedAt": 1789004523299,
+  "updatedAt": 1789004762887,
   "device": "desktop",
   "assets": [
+    {
+      "id": "apj0vt5nl",
+      "name": "create_realistic",
+      "category": "Creature",
+      "kind": "creature",
+      "device": "desktop",
+      "createdAt": 1789004703692,
+      "updatedAt": 1789004703692,
+      "cur": 0,
+      "versions": [
+        {
+          "label": "v1",
+          "note": "generated from image",
+          "prompt": "Create 3D realistic model of this man",
+          "device": "desktop",
+          "createdAt": 1789004703692,
+          "stats": {
+            "triangles": 8309,
+            "materials": 1,
+            "sizeMeters": 1.899,
+            "clipNames": [],
+            "bytes": 7712852
+          },
+          "fileId": "myfygy4mb",
+          "sourceUrl": "https://assets.meshy.ai/7803a6ef-f8f1-4962-938b-6dd6ae7d8a9c/tasks/01a088fb-512d-7003-9096-fce89638e28a/output/model.glb?Expires=1789263902&Signature=mc61GEkIz6KI0RrKKvnOCyrhaztt2llpa8djstkCPbZIf4pjhIFKDMFMnyPz08tBmiPagBHlxdHJuZBPUZ4pkiJccYT5q1RViHcIhe52T9MMBB5ervLlen0fvOlpjFEs2LJq04WQRBfZcTukhu9CPd5uRvdghZkoQNhw1aiBZ8e1NShdNc3eypfFcgLiF5aIdiehgUvWoBlLa39S~jb4ngFEjho1g4CivN2ZnRmGICL-S~7DnabK18iCwTP1i3Jww07xPoxKs38X4DgvysvesyQmktEm8vMJq6g1XK8E-Yv2T5bhjBB3GKYxYyg9vG3IPDLmF5ASWBr1~Nu6U5gnDQ__&Key-Pair-Id=K1VGYTHIYLM9UM",
+          "provider": "meshy",
+          "taskId": "mvi:01a088fb-512d-7003-9096-fce89638e28a"
+        }
+      ],
+      "clips": []
+    },
     {
       "id": "aduaeu8l3",
       "name": "can_you",
@@ -254,9 +285,17 @@
     "mjp9a4c38",
     "mfchidh9c",
     "m9e7fjnvg",
-    "mkp0m3zey"
+    "mkp0m3zey",
+    "myfygy4mb"
   ],
   "activity": [
+    {
+      "id": "mtuv7jyl-2g6v1c",
+      "at": 1789004703693,
+      "device": "desktop",
+      "message": "create_realistic created on desktop",
+      "assetId": "apj0vt5nl"
+    },
     {
       "id": "mtuoqsvt-0lq6dq",
       "at": 1788993844409,
