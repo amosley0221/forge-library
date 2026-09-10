@@ -1,8 +1,39 @@
 {
   "version": 1,
-  "updatedAt": 1788993440577,
+  "updatedAt": 1789004523299,
   "device": "desktop",
   "assets": [
+    {
+      "id": "aduaeu8l3",
+      "name": "can_you",
+      "category": "Vehicle",
+      "kind": "vehicle",
+      "device": "desktop",
+      "createdAt": 1788993844409,
+      "updatedAt": 1788993844409,
+      "cur": 0,
+      "versions": [
+        {
+          "label": "v1",
+          "note": "generated from prompt",
+          "prompt": "Can you generate a 1980-1984 RV",
+          "device": "desktop",
+          "createdAt": 1788993844409,
+          "stats": {
+            "triangles": 198360,
+            "materials": 1,
+            "sizeMeters": 1.905,
+            "clipNames": [],
+            "bytes": 37394804
+          },
+          "fileId": "mkp0m3zey",
+          "sourceUrl": "https://assets.meshy.ai/7803a6ef-f8f1-4962-938b-6dd6ae7d8a9c/tasks/01a08855-ea78-72fc-86c8-6442f6ca964f/output/model.glb?Expires=4942512000&Signature=Dps1VI-8o0lObTt40Okf3E5IiG0WdAgThzGdj3OAJOZq-fcZYeCRNCbxyFI3IzHsErdh2z2rsuH~GEMuNTlwV1mMc9UDbKfXsWxObck5dD21XR0o39Ae4TrNhv1JwMQEwtCxBeBdiMp6biQmRh~~xMmh3N8LvZBOczDjtslBcmzr5SKkzGWKVEIgBoC3huxUpHdNSNd-3mEPdLCK21-pl4nhgWNNQiRpYum6Fs4W0A6w7~KvmIaDStwCwl9hut2NSDrOmU5RdnH~P1b~rg3Kslj0gnSP~1SjpJSJvFgdbkf4G6EUj7W-9LYzyCM46TLd8ywC7hRV56vqSzQPe76yrw__&Key-Pair-Id=K1VGYTHIYLM9UM",
+          "provider": "meshy",
+          "taskId": "01a08855-ea78-72fc-86c8-6442f6ca964f"
+        }
+      ],
+      "clips": []
+    },
     {
       "id": "a0xgmoqv4",
       "name": "review",
@@ -222,9 +253,17 @@
     "m9f63rgpx",
     "mjp9a4c38",
     "mfchidh9c",
-    "m9e7fjnvg"
+    "m9e7fjnvg",
+    "mkp0m3zey"
   ],
   "activity": [
+    {
+      "id": "mtuoqsvt-0lq6dq",
+      "at": 1788993844409,
+      "device": "desktop",
+      "message": "can_you created on desktop",
+      "assetId": "aduaeu8l3"
+    },
     {
       "id": "mtuoi3hw-chn6mi",
       "at": 1788993438260,
